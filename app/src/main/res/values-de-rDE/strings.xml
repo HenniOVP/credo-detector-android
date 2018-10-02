@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CREDO Detector</string>
+    <string name="register_input_accept_rules_validation">Sie müssen die Bedingungen akzeptieren.</string>
+    <string name="status_fragment_battery_charge">ja</string>
+    <string name="launcher_toast_debug_activated">Aw yiss, debug mode</string>
+    <string name="status_working_time">Aufnahmedauer:</string>
+    <string name="status_label_working">Funzt :)</string>
+    <string name="status_fragment_latest">Zeitpunkt:</string>
+    <string name="login_message_validation_failed">Validierung fehlgeschlagen</string>
+    <string name="pref_register_name_summary">Nutzername</string>
+    <string name="pref_cat_login">Login mit Nutzer-ID</string>
+    <string name="pref_cat_register">Login und Teambeitritsregistrierung</string>
+    <string name="pref_login_title">Nutzerschlüssel</string>
+    <string name="pref_register_email_summary">Nutzer E-Mail adresse</string>
+    <string name="user_title_activity">Nutzer Accounteinstellungen</string>
+    <string name="pref_full_frame_title">Benutze maximale Kameraauflösung</string>
+    <string name="status_fragment_battery_slow">USB</string>
+    <string name="settings_upload_summary">Übertrage daten nur über WiFi.</string>
+    <string name="stats_upload">Hochgeladen</string>
+    <string name="launcher_button_turnoff_debug">Schalte debug modus ab</string>
+    <string name="app_homepage">Um mehr zu erfahren besuchen sie bitte die CREDO website:</string>
+    <string name="status_fragment_toggle">Ein-/ausschalten der Detektion</string>
+    <string name="app_description">Das CREDO projekt sucht nach Teilchenschauern aus dem Weltall um fundamentale Fragen über das Universum zu beantworten.</string>
+    <string name="app_name_short">Detektor</string>
+    <string name="app_title">Extrem weit verteiltes Observatorium für kosmische Strahlung (CREDO)</string>
+    <string name="credo_name">CREDO</string>
+    <string name="status_fragment_detections">Ereignisse in den letzten %1$d Tagen:</string>
+    <string name="detections_item_orientation">Azimut: %1$.1f°</string>
+    <string name="pref_auto_run_title">Automatisch starten</string>
+    <string name="pref_auto_run_summary">Starte die Detektion beim starten der app automatisch</string>
+    <string name="pref_register_crop_title">Größe des Bildausschnitts [px]</string>
+    <string name="pref_register_crop_summary">Größe des Randes, welcher vom Kamerabild abgeschnitten wird. Voreingestellt: 20</string>
+    <string name="pref_auto_calibration_title">Automatische Kalibrierung</string>
+    <string name="pref_auto_calibration_summary">Führe die automatische Kalibrierung durch</string>
+    <string name="pref_register_max_summary">Ignoriere Kamerabilder bei welchen irgendein Pixel heller ist als \"Max factor\". Voreingestellt: 120</string>
+    <string name="pref_register_average_title">Faktor des Durchschnitts [0-255]</string>
+    <string name="pref_register_average_summary">Ignoriere Kamerabild wenn der Durchschnitt der Pixel heller ist als der \"Faktor des Durschschnitts\". Voreingestellt: 30</string>
+</resources>
